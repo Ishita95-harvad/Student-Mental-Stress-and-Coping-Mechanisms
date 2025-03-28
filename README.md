@@ -1,12 +1,15 @@
 **About Dataset**
+
 This dataset provides insights into the mental stress levels experienced by students, alongside the coping mechanisms they employ to manage stress. The data includes a variety of factors, such as academic performance, lifestyle habits, social influences, and mental health-related attributes, as well as students’ strategies for managing stress.
 
 It is intended for use in academic research, predictive modeling, and mental health studies. Researchers, educators, and mental health professionals can use this dataset to better understand student mental health and the effectiveness of various coping mechanisms.
 
 **Disclaimer:**
+
 This dataset is fictitious and created for the purpose of educational use, research, and model development. The data does not represent real individuals or real-world information. It is open for use by anyone wishing to explore or analyze student mental health and stress-related data.
 
-Dataset Structure
+**Dataset Structure**
+
 Columns:
 Student ID (UUID)
 A unique identifier for each student.
@@ -74,19 +77,23 @@ Whether the student has a pre-existing medical condition that affects mental hea
 Substance Use (Scale 1-5) (Number)
 Self-reported level of substance use (1 = no use, 5 = heavy use).
 
-Data Format
+**Data Format**
+
 The dataset is provided in a CSV format.
 Each row represents a unique student.
 The columns contain a variety of data types, including numerical values and categorical values (e.g., gender).
 
-Potential Use Cases
+**Potential Use Cases**
+
 Stress Analysis: analyze the factors that contribute to student mental stress, such as academic pressures, social influences, and personal health.
 Coping Mechanism Effectiveness: Investigate which coping mechanisms are most effective in reducing mental stress.
 Predictive Modeling: Build models to predict mental stress levels based on lifestyle, academic performance, and personal habits.
 Mental Health Research: Conduct research into how various factors (e.g., sleep, exercise, social media use) influence students’ mental well-being.
 
-Acknowledgments
+**Acknowledgments**
+
 This dataset was created to help better understand mental stress among students and to support efforts in improving student well-being. If you use this dataset for research or other projects, please cite it accordingly.
 
-License
+**License**
+
 This dataset is fictitious and made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. This means you are free to copy, modify, distribute, and perform the work, even for commercial purposes, as long as you provide proper attribution.
